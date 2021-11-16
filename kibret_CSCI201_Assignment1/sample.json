@@ -1,0 +1,50 @@
+[
+  {
+    "chiralFrequency": 0,
+    "timefall": true,
+    "guid": "6b3a247e-eaa1-42fd-8b54-9a8dee59e3f1",
+    "name": "Isotronic Shelter",
+    "phone": "+1(823)537-3279",
+    "address": "918 Vine Street, Siglerville, United Cities of America, 4460"
+  },
+  {
+    "chiralFrequency": 1,
+    "timefall": false,
+    "guid": "c4c62388-98a2-4240-8a6b-5a352e05b5fb",
+    "name": "Geekular Shelter",
+    "phone": "+100 (988) 523-2394",
+    "address": "462 Temple Court, Calverton, United Cities of America, 8728"
+  },
+  {
+    "chiralFrequency": 2,
+    "timefall": true,
+    "guid": "a2e9f68c-c164-4ca1-a13a-7166ee0fa9cf",
+    "name": "Rooforia Shelter",
+    "phone": "+12 (890) 488-2489",
+    "address": "426 Clinton Avenue, Ogema, United Cities of America, 9082"
+  },
+  {
+    "chiralFrequency": 3,
+    "timefall": false,
+    "guid": "f2ac81a3-dca4-4c3f-a7c4-193e32fc7b9e",
+    "name": "Maineland Shelter",
+    "phone": "+1 (804) 504-2189",
+    "address": "977 Bay Street, Duryea, United Cities of America, 3695"
+  },
+  {
+    "chiralFrequency": 4,
+    "timefall": true,
+    "guid": "9125ab11-db16-4c2e-b84f-fdd504cb6d64",
+    "name": "Dreamia Shelter",
+    "phone": "+19 (827) 597-2957",
+    "address": "527 Polhemus Place, Temperanceville, United Cities of America, 6841"
+  },
+  {
+    "chiralFrequency": 5,
+    "timefall": true,
+    "guid": "885b4a72-a20f-4690-af66-772e21a7264c",
+    "name": "Ozean Shelter",
+    "phone": "+13 (812) 517-3382",
+    "address": "514 Verona Street, Ellerslie, United Cities of America, 9544"
+  }
+]
